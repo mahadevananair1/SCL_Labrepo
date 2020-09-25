@@ -1,2 +1,3 @@
-# -$$$@ing_sclLab
-do not open
+# SCL lab school works
+just a backup repo 
+##do not open
