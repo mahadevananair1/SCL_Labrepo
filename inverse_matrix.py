@@ -9,3 +9,9 @@ print (y)
 
 # Verification of inverse matrix
 # print(np.matmul(x,y))
+
+#*************** OUTPUT ************************# 
+# [[ 7. -3. -3.]
+#  [-1.  1.  0.]
+#  [-1.  0.  1.]]
+#*************** END OF OUTPUT ************************# 

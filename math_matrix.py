@@ -25,3 +25,25 @@ eigen_valuesY,eigen_vectorY= np.linalg.eig(y)
 # Printing eigen value and vector of Y
 print("\nEIGEN VALUES OF Y:\n{}".format(eigen_valuesY))
 print("\nEIGEN VECTOR OF Y:\n{}".format(eigen_vectorY))
+
+#*************** OUTPUT ************************# 
+# rank of x: 2
+
+# EIGEN VALUES OF X:
+# [ 4.31662479e+00 -2.31662479e+00  1.93041509e-17]
+
+# EIGEN VECTOR OF X:
+# [[ 0.58428153  0.73595785  0.40824829]
+#  [ 0.80407569 -0.38198836 -0.81649658]
+#  [ 0.10989708 -0.55897311  0.40824829]]
+
+# rank of y : 2
+
+# EIGEN VALUES OF Y:
+# [-4.12310563e+00  4.12310563e+00 -7.83686841e-16]
+
+# EIGEN VECTOR OF Y:
+# [[ 0.96413818 -0.05497126  0.66742381]
+#  [-0.11869083 -0.44653738 -0.57207755]
+#  [-0.23738167 -0.89307476  0.47673129]]
+#*************** END OF OUTPUT ************************# 
