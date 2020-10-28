@@ -7,7 +7,7 @@ y = np.cos(x)
 y1 = np.sin(x)
 
 #cos plot
-pl.plot(x,y)
+pl.stem(x,y,'b', markerfmt='bo')
 # sin plot
-pl.plot(x, y1)
+pl.stem(x, y1,'g', markerfmt='go')
 pl.show()
